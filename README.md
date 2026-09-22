@@ -6,7 +6,7 @@ Never gonna give up! You can win.
 
 [Play now for free!](https://reparadoxy.itch.io/last-internet-connection/)
 
-### Screenshots
+[YouTube Demo](https://youtube.com/shorts/IP6dGUblsXs)
 
 <p align="center">
   <img src="https://github.com/Rubinoslaw/Last-Internet-Connection/blob/main/Screenshot.gif" alt="Screenshot"/>
